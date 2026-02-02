@@ -1,0 +1,49 @@
+Features (Columns):
+
+Invoice – Unique invoice identifier for each transaction.
+
+StockCode – Unique product/item code.
+
+Description – Product description (some missing values).
+
+Quantity – Number of items purchased in the transaction.
+
+InvoiceDate – Date and time of purchase.
+
+Price – Unit price of the product.
+
+Customer ID – Unique customer identifier (some missing).
+
+Country – Customer’s country.
+
+Customer_Age – Customer’s age.
+
+Gender – Customer gender (Male/Female).
+
+Signup_Date – When the customer registered.
+
+Last_Login_Date – Last time customer logged into the platform.
+
+Customer_Segment – Category of customer (e.g., Regular, VIP, New).
+
+Marketing_Channel – Source of acquisition (Organic, Referral, Paid Ads, etc.).
+
+Category – Product category (e.g., Home Decor, Clothing).
+
+Subcategory – More specific product classification.
+
+Cost – Cost incurred per unit item.
+
+Discount_Applied – Binary flag (1/0) whether a discount was applied.
+
+Payment_Method – Mode of payment (Credit Card, PayPal, Cash, Bank Transfer).
+
+Promo_Applied – Binary flag for promotional usage.
+
+Delivery_Time_Days – Delivery lead time in days.
+
+Revenue – Total revenue generated from the transaction.
+
+Profit – Profit earned from the transaction.
+
+Churn_Flag – (1 = churned customer, 0 = active customer).
